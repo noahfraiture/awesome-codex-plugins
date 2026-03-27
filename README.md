@@ -1,17 +1,46 @@
 # Awesome Codex Plugins
 
-Welcome to the Awesome Codex Plugins repository! Here you'll find a curated list of plugins that enhance the functionality of Codex.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="Codex" width="160" />
+</p>
 
-![Logo](https://via.placeholder.com/150)
+<p align="center">
+  <strong>A curated list of plugins, tools, and integrations for Codex.</strong>
+</p>
 
-## Plugin Examples
+---
 
-### Plugin 1
-- **Name:** Example Plugin 1
-- **Description:** This is a placeholder description for Example Plugin 1.
+## About
 
-### Plugin 2
-- **Name:** Example Plugin 2
-- **Description:** This is a placeholder description for Example Plugin 2.
+This repository is a growing collection of useful plugins for Codex-oriented workflows.
 
-Feel free to contribute your own plugins to this list!
+It is intentionally simple for now, but designed to become a polished, community-friendly list.
+
+---
+
+## Plugins
+
+| Name | Description | Link |
+|------|-------------|------|
+| Example Plugin One | Example entry for a future plugin. | _(add link)_ |
+| Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
+
+> Note: Replace these examples with real plugins as soon as you add them.
+
+---
+
+## Contributing
+
+Contributions are welcome. When adding a plugin, please include:
+- name
+- short description
+- installation or usage notes
+- link to the project or documentation
+
+---
+
+## Status
+
+- Initial version
+- Plugin list is currently minimal
+- No license section as requested
