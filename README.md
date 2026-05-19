@@ -22,10 +22,9 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
-| Example Plugin One | Example entry for a future plugin. | _(add link)_ |
-| Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
+| agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | [GitHub](https://github.com/luoyuctl/agenttrace) |
 
-> Note: Replace these examples with real plugins as soon as you add them.
+> Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
 ---
 
