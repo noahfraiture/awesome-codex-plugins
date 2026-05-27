@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
 | Example Plugin One | Example entry for a future plugin. | _(add link)_ |
 | Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
 
