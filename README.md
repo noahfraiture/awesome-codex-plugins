@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
 | Example Plugin One | Example entry for a future plugin. | _(add link)_ |
 | Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
 
