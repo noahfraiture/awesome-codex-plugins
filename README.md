@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | https://github.com/Xquik-dev/hermes-tweet |
 | Example Plugin One | Example entry for a future plugin. | _(add link)_ |
 | Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
 
