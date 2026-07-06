@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| [Taisly Agent Kit](https://github.com/taisly/agent) | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | [Repository](https://github.com/taisly/agent) |
 | Example Plugin One | Example entry for a future plugin. | _(add link)_ |
 | Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
 
