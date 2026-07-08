@@ -22,10 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
-| Example Plugin One | Example entry for a future plugin. | _(add link)_ |
-| Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
-
-> Note: Replace these examples with real plugins as soon as you add them.
+| Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | https://github.com/TerminallyLazy/Tree-Ring-Memory |
 
 ---
 
