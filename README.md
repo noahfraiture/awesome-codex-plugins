@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
 | agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | [GitHub](https://github.com/luoyuctl/agenttrace) |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
