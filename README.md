@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | https://github.com/TerminallyLazy/Tree-Ring-Memory |
 | Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | https://github.com/Xquik-dev/hermes-tweet |
 | codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
 | emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
