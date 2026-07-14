@@ -23,10 +23,11 @@ It is intentionally simple for now, but designed to become a polished, community
 | Name | Description | Link |
 |------|-------------|------|
 | Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | https://github.com/Xquik-dev/hermes-tweet |
-| Example Plugin One | Example entry for a future plugin. | _(add link)_ |
-| Example Plugin Two | Another placeholder entry for now. | _(add link)_ |
+| codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
+| emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
+| agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | [GitHub](https://github.com/luoyuctl/agenttrace) |
 
-> Note: Replace these examples with real plugins as soon as you add them.
+> Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
 ---
 
