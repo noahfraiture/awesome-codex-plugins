@@ -28,6 +28,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
 | emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
 | agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | [GitHub](https://github.com/luoyuctl/agenttrace) |
+| codex-patch-overlay | Patched Codex CLI builds carrying community-requested features upstream hasn't merged yet (live TUI reasoning streaming, completion sound, WebP image input, timed CLI queueing). Install by downloading a release binary (macOS arm64 / Linux x86_64-musl, sha256-checksummed) or via the Nix overlay `github:salty-flower/codex-patch-overlay/latest-release`. | https://github.com/salty-flower/codex-patch-overlay |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
