@@ -23,6 +23,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | Name | Description | Link |
 |------|-------------|------|
 | [Taisly Agent Kit](https://github.com/taisly/agent) | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | [Repository](https://github.com/taisly/agent) |
+| [RunAPI MCP](https://github.com/runapi-ai/mcp) | Run AI model jobs from Codex through RunAPI's MCP server for image, video, music/audio, text-to-speech, and LLM workflows. | [Repository](https://github.com/runapi-ai/mcp) |
 | Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | https://github.com/TerminallyLazy/Tree-Ring-Memory |
 | Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | https://github.com/Xquik-dev/hermes-tweet |
 | codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
