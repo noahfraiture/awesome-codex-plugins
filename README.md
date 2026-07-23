@@ -22,15 +22,15 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
-| [Taisly Agent Kit](https://github.com/taisly/agent) | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | [Repository](https://github.com/taisly/agent) |
-| [RunAPI MCP](https://github.com/runapi-ai/mcp) | Run AI model jobs from Codex through RunAPI's MCP server for image, video, music/audio, text-to-speech, and LLM workflows. | [Repository](https://github.com/runapi-ai/mcp) |
-| Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | https://github.com/TerminallyLazy/Tree-Ring-Memory |
-| Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | https://github.com/Xquik-dev/hermes-tweet |
+| Taisly Agent Kit | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | <https://github.com/taisly/agent> |
+| RunAPI MCP | Run AI model jobs from Codex through RunAPI's MCP server for image, video, music/audio, text-to-speech, and LLM workflows. | <https://github.com/runapi-ai/mcp> |
+| Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | <https://github.com/TerminallyLazy/Tree-Ring-Memory> |
+| Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | <https://github.com/Xquik-dev/hermes-tweet> |
 | codex-profiles | Switch Codex CLI and Desktop accounts with isolated `CODEX_HOME` profile directories instead of copying auth files. | <https://github.com/Ducksss/codex-profiles> |
-| Codex Skin Pack Installer | Codex plugin and Skill for installing verified public-safe Codex desktop skin packs with theme validation and restore guidance. Install with `codex plugin marketplace add ChannelerH/codex-skin-packs --ref main --sparse .agents/plugins --sparse plugins/codex-skin-pack-installer`. | https://github.com/ChannelerH/codex-skin-packs |
-| emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | https://github.com/endgegnerbert-tech/emet |
-| agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | [GitHub](https://github.com/luoyuctl/agenttrace) |
-| codex-patch-overlay | Patched Codex CLI builds carrying community-requested features upstream hasn't merged yet (live TUI reasoning streaming, completion sound, WebP image input, timed CLI queueing). Install by downloading a release binary (macOS arm64 / Linux x86_64-musl, sha256-checksummed) or via the Nix overlay `github:salty-flower/codex-patch-overlay/latest-release`. | https://github.com/salty-flower/codex-patch-overlay |
+| Codex Skin Pack Installer | Codex plugin and Skill for installing verified public-safe Codex desktop skin packs with theme validation and restore guidance. Install with `codex plugin marketplace add ChannelerH/codex-skin-packs --ref main --sparse .agents/plugins --sparse plugins/codex-skin-pack-installer`. | <https://github.com/ChannelerH/codex-skin-packs> |
+| emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | <https://github.com/endgegnerbert-tech/emet> |
+| agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | <https://github.com/luoyuctl/agenttrace> |
+| codex-patch-overlay | Patched Codex CLI builds carrying community-requested features upstream hasn't merged yet (live TUI reasoning streaming, completion sound, WebP image input, timed CLI queueing). Install by downloading a release binary (macOS arm64 / Linux x86_64-musl, sha256-checksummed) or via the Nix overlay `github:salty-flower/codex-patch-overlay/latest-release`. | <https://github.com/salty-flower/codex-patch-overlay> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
