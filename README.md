@@ -23,6 +23,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | Name | Description | Link |
 |------|-------------|------|
 | Taisly Agent Kit | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | <https://github.com/taisly/agent> |
+| NotFair | Open-source Codex marketing skill pack with 45 SEO, GEO, paid-media, and analytics workflows plus approval-gated MCP connectors for live account work. Clone the repository and open it as a Codex workspace; `AGENTS.md` routes requests to the relevant `SKILL.md`. | <https://github.com/nowork-studio/notfair-plugin> |
 | RunAPI MCP | Run AI model jobs from Codex through RunAPI's MCP server for image, video, music/audio, text-to-speech, and LLM workflows. | <https://github.com/runapi-ai/mcp> |
 | Tree Ring Memory Framework | Framework-agnostic, local-first memory lifecycle for AI agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and DOX/Revolve adapters. | <https://github.com/TerminallyLazy/Tree-Ring-Memory> |
 | Hermes Tweet | Native Hermes Agent plugin for X/Twitter research, monitoring, drafting, follower exports, and approved actions. Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`. | <https://github.com/Xquik-dev/hermes-tweet> |
