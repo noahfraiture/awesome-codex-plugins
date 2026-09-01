@@ -32,6 +32,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | emet | Grounded web research MCP plugin for Codex with live sources, cited answers, and current-doc lookup; install via `codex plugin marketplace add https://github.com/endgegnerbert-tech/emet`. | <https://github.com/endgegnerbert-tech/emet> |
 | agenttrace | Local-first trace analysis and CI regression gates for Codex and AI coding agent sessions. | <https://github.com/luoyuctl/agenttrace> |
 | codex-patch-overlay | Patched Codex CLI builds carrying community-requested features upstream hasn't merged yet (live TUI reasoning streaming, completion sound, WebP image input, timed CLI queueing). Install by downloading a release binary (macOS arm64 / Linux x86_64-musl, sha256-checksummed) or via the Nix overlay `github:salty-flower/codex-patch-overlay/latest-release`. | <https://github.com/salty-flower/codex-patch-overlay> |
+| Agent Coordinator | Per-user Codex skill that keeps graph changes, recovery, integration, and completion under one controller while optional specialists handle scoped nodes. It records revisioned local state, reconciles uncertain work before retry, and reruns authored closeout checks. Follow the repository's `INSTALL.md` steps, then invoke `$coordinator` for complex Codex tasks. | <https://github.com/alanhoff/agent-coordinator> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
