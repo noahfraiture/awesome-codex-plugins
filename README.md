@@ -22,6 +22,7 @@ It is intentionally simple for now, but designed to become a polished, community
 
 | Name | Description | Link |
 |------|-------------|------|
+| BulkPublish MCP | Approval-based social publishing from Codex and other AI agents through the BulkPublish API and hosted MCP; supports scheduling, media, and multi-channel publishing. | <https://github.com/azeemkafridi/bulkpublish-api> · <https://app.bulkpublish.com/docs> |
 | Taisly Agent Kit | Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill. | <https://github.com/taisly/agent> |
 | NotFair | Open-source Codex marketing skill pack with 45 SEO, GEO, paid-media, and analytics workflows plus approval-gated MCP connectors for live account work. Clone the repository and open it as a Codex workspace; `AGENTS.md` routes requests to the relevant `SKILL.md`. | <https://github.com/nowork-studio/notfair-plugin> |
 | RunAPI MCP | Run AI model jobs from Codex through RunAPI's MCP server for image, video, music/audio, text-to-speech, and LLM workflows. | <https://github.com/runapi-ai/mcp> |
