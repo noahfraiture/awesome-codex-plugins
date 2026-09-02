@@ -34,6 +34,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | codex-patch-overlay | Patched Codex CLI builds carrying community-requested features upstream hasn't merged yet (live TUI reasoning streaming, completion sound, WebP image input, timed CLI queueing). Install by downloading a release binary (macOS arm64 / Linux x86_64-musl, sha256-checksummed) or via the Nix overlay `github:salty-flower/codex-patch-overlay/latest-release`. | <https://github.com/salty-flower/codex-patch-overlay> |
 | Archcore | Spec-driven development and context engineering for AI coding agents, backed by project context in Git. Install with `curl -fsSL https://archcore.ai/install.sh \| bash`; the installer adds the Codex CLI plugin when it finds Codex. | <https://github.com/archcore-ai/archcore> |
 | Agent Coordinator | Codex skill for coordinating complex tasks with local workflow state, recovery, and optional specialist agents. Follow the repository's `INSTALL.md`, then invoke `$coordinator`; requires Python 3.11+. | <https://github.com/alanhoff/agent-coordinator> |
+| BulkPublish MCP | Social media scheduling and publishing through BulkPublish's MCP server, with team approval workflows. Follow the repository's MCP setup guide; requires a BulkPublish account and connected social channels. | <https://github.com/azeemkafridi/bulkpublish-api> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
