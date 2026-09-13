@@ -37,6 +37,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | BulkPublish MCP | Social media scheduling and publishing through BulkPublish's MCP server, with team approval workflows. Follow the repository's MCP setup guide; requires a BulkPublish account and connected social channels. | <https://github.com/azeemkafridi/bulkpublish-api> |
 | Codex Tasklist | Persistent request queue with a live terminal panel for Codex CLI. Install with `codex plugin marketplace add martinille/codex-tasklist`, then `codex plugin add codex-tasklist@codex-tasklist`; follow the README to review hooks and configure the terminal. | <https://github.com/martinille/codex-tasklist> |
 | OrkasVideoStudio | CLI and MCP toolkit for composing and editing videos from editable `plan.json` timelines, with optional paid generation. Follow the repository's source-install and Codex skill setup instructions; generation requires provider credentials. | <https://github.com/Orkas-AI/Orkas-VideoStudio> |
+| Grok Bridge | Experimental task handoffs between Codex and Grok Bot. Follow the repository's release-install guide; requires native logins and the community `gbot` client, which uses Grok Bot's private gateway and stored session. | <https://github.com/niharnm/grok-bridge> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
