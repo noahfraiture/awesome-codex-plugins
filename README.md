@@ -38,6 +38,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | Codex Tasklist | Persistent request queue with a live terminal panel for Codex CLI. Install with `codex plugin marketplace add martinille/codex-tasklist`, then `codex plugin add codex-tasklist@codex-tasklist`; follow the README to review hooks and configure the terminal. | <https://github.com/martinille/codex-tasklist> |
 | OrkasVideoStudio | CLI and MCP toolkit for composing and editing videos from editable `plan.json` timelines, with optional paid generation. Follow the repository's source-install and Codex skill setup instructions; generation requires provider credentials. | <https://github.com/Orkas-AI/Orkas-VideoStudio> |
 | Grok Bridge | Experimental task handoffs between Codex and Grok Bot. Follow the repository's release-install guide; requires native logins and the community `gbot` client, which uses Grok Bot's private gateway and stored session. | <https://github.com/niharnm/grok-bridge> |
+| BestPrice | Greek product search, offer comparisons, and price history through BestPrice's hosted MCP server. Follow the repository's remote MCP or Codex plugin setup guide; public shopping research is read-only and needs no API key. | <https://github.com/TheBestCo/bestprice-mcp> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
