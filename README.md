@@ -36,6 +36,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | Agent Coordinator | Codex skill for coordinating complex tasks with local workflow state, recovery, and optional specialist agents. Follow the repository's `INSTALL.md`, then invoke `$coordinator`; requires Python 3.11+. | <https://github.com/alanhoff/agent-coordinator> |
 | BulkPublish MCP | Social media scheduling and publishing through BulkPublish's MCP server, with team approval workflows. Follow the repository's MCP setup guide; requires a BulkPublish account and connected social channels. | <https://github.com/azeemkafridi/bulkpublish-api> |
 | Codex Tasklist | Persistent request queue with a live terminal panel for Codex CLI. Install with `codex plugin marketplace add martinille/codex-tasklist`, then `codex plugin add codex-tasklist@codex-tasklist`; follow the README to review hooks and configure the terminal. | <https://github.com/martinille/codex-tasklist> |
+| OrkasVideoStudio | CLI and MCP toolkit for composing and editing videos from editable `plan.json` timelines, with optional paid generation. Follow the repository's source-install and Codex skill setup instructions; generation requires provider credentials. | <https://github.com/Orkas-AI/Orkas-VideoStudio> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
