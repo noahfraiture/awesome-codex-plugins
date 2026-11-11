@@ -42,6 +42,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | /call-me | Phone calls and texts between Codex and the /call-me mobile app through a hosted service. Follow the repository's local Codex setup and phone-pairing guide; requires a paid mobile subscription. | <https://github.com/radres/call-me> |
 | YYLO | Command-line orchestrator for Codex and other coding agents, with task worktrees and review workflows. Install with `npm install -g @yylo/cli`; the Codex backend defaults to unrestricted filesystem access, as documented in its service guide. | <https://github.com/yylo-dev/yylo> |
 | multi-llm | Codex plugin for parallel plan and code reviews across multiple coding CLIs. Follow the repository's Codex installation guide; tool calls are pre-approved, and some provider paths disable approval or sandbox protections. | <https://github.com/beastlabai/multi-llm-plugin> |
+| Datacircle | Read-only lookup of go-to-market API providers, plans, prices, and benchmarks through a hosted MCP server. Add `https://api.datacircle.dev/mcp` in Codex; no account or API key is required. MCP queries are logged for 30 days. | <https://datacircle.dev> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
