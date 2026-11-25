@@ -44,6 +44,7 @@ It is intentionally simple for now, but designed to become a polished, community
 | multi-llm | Codex plugin for parallel plan and code reviews across multiple coding CLIs. Follow the repository's Codex installation guide; tool calls are pre-approved, and some provider paths disable approval or sandbox protections. | <https://github.com/beastlabai/multi-llm-plugin> |
 | Datacircle | Read-only lookup of go-to-market API providers, plans, prices, and benchmarks through a hosted MCP server. Add `https://api.datacircle.dev/mcp` in Codex; no account or API key is required. MCP queries are logged for 30 days. | <https://datacircle.dev> |
 | zaDojo | SEO, GEO and AEO plugin with 12 skills (site audits, keyword research, competitor analysis, rank tracking, AI visibility audits) and the hosted zaDojo MCP server. Install with `codex plugin marketplace add zadojo/seo-geo-mcp`, then `codex plugin add zadojo@zadojo` and `codex mcp login zadojo`; Search Console and Google Analytics data are free, SERP, keyword, rank tracking and AI visibility data use pay-as-you-go credits. | <https://github.com/zaDojo/seo-geo-mcp> |
+| QuestionPunk for Codex | Draft surveys, set up text or voice interviews, and summarize study results in Codex. For a guest survey link, the bundled tool sends the draft questions to QuestionPunk. Connect a QuestionPunk account to save or publish a study and read authorized results. | <https://github.com/questionpunk/codex-plugin> |
 
 > Note: Add focused plugins, tools, and integrations that improve Codex-oriented workflows.
 
